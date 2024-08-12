@@ -1,3 +1,3 @@
-- - Ola meu nome é Tacamassanomuro
-- - Eu sou um estudante da escola Leonardo vila boas
+- - Ola, meu nome é Tacamassanomuro, sou estudante da 1° série C, na escola Leonardo Vilas Boas,
+- - 
 - - 
